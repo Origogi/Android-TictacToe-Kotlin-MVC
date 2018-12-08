@@ -1,4 +1,4 @@
-package jeongtae.com.tictactoe.view_controller
+package jeongtae.com.tictactoe.controller
 
 import android.graphics.Color
 import android.support.v7.app.AppCompatActivity
