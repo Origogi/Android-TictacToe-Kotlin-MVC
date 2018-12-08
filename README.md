@@ -5,4 +5,8 @@ A simple tic tac toe app, to illustrate the use of MVC architectures to organize
  
  - Android Application
  - Language : Kotlin
+ 
+ 
+## Screenshot
 
+![screenshot](run.gif)
